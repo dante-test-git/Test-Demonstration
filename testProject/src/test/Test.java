@@ -5,4 +5,6 @@ public class Test {
 	String goodbye = "Goodbye";
 	
 	String welcome = "Welcome";
+	
+	String unwelcome = "Unwelcome";
 }
